@@ -1,2 +1,3 @@
-# Android-VPN-Switch
-A Virtual Network Device that uses Android instances to create VPN Connections, using free VPN Apps, and act as a network gateway to share them with other Hosts / Containers &amp; VMs!
+# Android VPN Router in Virtual Machine
+A virtual network router that uses Android instances to create VPN Connections! Taking advantage of free VPN Apps on Android.
+Act as a network Router & gateway to share them with other Hosts & Containers.
